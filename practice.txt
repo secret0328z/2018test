@@ -1,1 +1,1 @@
-hello jack world
+hello world
